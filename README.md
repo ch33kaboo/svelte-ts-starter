@@ -3,7 +3,7 @@
 <a href="https://svelte.dev/" target="_blank"> <img src="https://img.icons8.com/doodle/344/svetle.png" height="48" width="48"/> </a> &nbsp;&nbsp;
 <a href="http://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://daisyui.com/" target="_blank"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33c.png" height="48" width="48"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://vitejs.dev/" target="_blank"> <img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" height="48" width="48"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/kaisermann/svelte-i18n" target="_blank"> <img src="https://i.ibb.co/M1KjFS5/i18n.png" height="48" width="48"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://prettier.io/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/prettier-2-logo-svg-vector.svg" height="48" width="48"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://prettier.io/" target="_blank"> <img src="https://lemariva.com/storage/temp/public/79e/a13/6b1/vscode__1024.png" height="48" width="48"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://vitejs.dev/" target="_blank"> <img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" height="48" width="48"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/kaisermann/svelte-i18n" target="_blank"> <img src="https://i.ibb.co/M1KjFS5/i18n.png" height="48" width="48"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://prettier.io/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/prettier-2-logo-svg-vector.svg" height="48" width="48"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://lemariva.com/storage/temp/public/79e/a13/6b1/vscode__1024.png" height="48" width="48"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 This is a starter template for building and running an app using these techs:
 
@@ -50,10 +50,10 @@ To get going, make sure you have [NodeJS](https://nodejs.org/en/) and [git](http
 
 ## :grey_question: What to change in the starter
 
--   change the content of `title` tag in `index.html`.
--   change the hex codes of the colors in `tailwind.config.cjs`.
--   change the content of `README.md` file.
--   remove the directory .git from the root of the starter project, and initialize your own git repo.
+-   Change the content of `title` tag in `index.html`.
+-   Change the hex codes of the colors in `tailwind.config.cjs`.
+-   Change the content of `README.md` file.
+-   Remove the `.git` directory from the root of the starter project, and initialize your own git repo.
 
 ## 🚀 Next steps
 
