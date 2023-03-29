@@ -1,5 +1,10 @@
 <script>
+    // importing Modules
     import { _, locale } from "svelte-i18n";
+
+    // importing components
+    import Component from "./lib/Component.svelte";
+
     import { mode } from "./stores/darkModeStore";
 
     const myPage = document.getElementsByTagName("html");
@@ -35,6 +40,7 @@
         <div class="btn-secondary btn" on:click={toggleDarkMode}>
             toggle dark mode
         </div>
+        <Component />
     </div>
 </main>
 
