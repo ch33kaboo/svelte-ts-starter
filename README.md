@@ -12,6 +12,7 @@ This is a starter template for building and running an app using these techs:
 -   [daisyUI](https://daisyui.com/) : UI components for Tailwind CSS.
 -   [Vite](https://vitejs.dev/) : Build tool and development server for modern web applications.
 -   [svelte-i18n](https://github.com/kaisermann/svelte-i18n) : A package for Svelte that provides internationalization (i18n) features (also the starter project has `lokalise.i18n-ally` vscode extension setup.)
+-   [svelte-navigator](https://github.com/mefechoel/svelte-navigator) : A Single Page App Router package for Svelte that handles routing (all routes must be in `/src/routes` directory).
 -   **Dark mode functionality** : The starter project includes functionality for toggling between light and dark mode, implemented using a Svelte store in `src/stores/darkModeStore.js`.
 -   **Custom colors** : The starter project defines four custom colors in `tailwind.config.cjs` (`lightest`, `light`, `dark`, and `darkest`), which can be customized to match a given color palette.
 -   **Prettier configuration** : The workspace includes a pre-configured Prettier setup for consistent code formatting.
@@ -51,6 +52,8 @@ To get going, make sure you have [NodeJS](https://nodejs.org/en/) and [git](http
 ## :grey_question: What to change in the starter
 
 -   Change the content of `title` tag in `index.html`.
+-   Change the components in `/src/lib`.
+-   Change the routes in `/src/routes`.
 -   Change the hex codes of the colors in `tailwind.config.cjs`.
 -   Change the content of `README.md` file.
 -   Remove the `.git` directory from the root of the starter project, and initialize your own git repo.
